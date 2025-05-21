@@ -43,8 +43,8 @@ src/
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/country-explorer.git
-   cd country-explorer
+   git clone https://github.com/Ulaganathan0709/contry-details
+   cd country-details
    ```
 
 2. **Install dependencies:**
@@ -74,7 +74,7 @@ src/
 
 ## 🔗 Live Demo
 
-👉 [https://your-vercel-app-url.vercel.app](https://your-vercel-app-url.vercel.app)
+👉 [https://your-vercel-app-url.vercel.app](https://contry-details.vercel.app/)
 
 ---
 
